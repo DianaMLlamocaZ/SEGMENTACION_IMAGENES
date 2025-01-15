@@ -10,13 +10,13 @@ Este proyecto se basa en la segmentación de imágenes, usando el dataset **The 
 
 #### **Técnicas:** 
 
-#### Encoder:
-  - 6 capas convolucionales 2D
-  - Implementación de 'padding' y 'strides' en las capas (para una extracción de características más precisa y por la importancia del *spatial location* en segmentación de imágenes, respectivamente)
+  #### Encoder:
+    - 6 capas convolucionales 2D
+    - Implementación de 'padding' y 'strides' en las capas (para una extracción de características más precisa y por la importancia del *spatial location* en   segmentación de imágenes, respectivamente)
 
-#### Decoder:
-  - 6 capas convolucionales 2D transpose (por el upsampling del espacio de características, pues el size del output debe ser igual al size del input)
-  - Output: Conv2D layer con el número de filtros equivalentes al número de clases tomadas en cuenta para la segmentación en el conjunto de datos.
+  #### Decoder:
+    - 6 capas convolucionales 2D transpose (por el upsampling del espacio de características, pues el size del output debe ser igual al size del input)
+    - Output: Conv2D layer con el número de filtros equivalentes al número de clases tomadas en cuenta para la segmentación en el conjunto de datos.
 
 ---------
 
