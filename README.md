@@ -5,7 +5,7 @@
 ## Categorías de Proyectos:
 
 1. **Segmentación de Imágenes**
-   - [Proyecto OXFORD_PETS_DATASET](./ComputerVision-OXFORD_PETS): Segmentación de imágenes utilizando una red neuronal convolucional (encoder-decoder) desde cero.
+   - [Proyecto OXFORD_PETS](./ComputerVision-OXFORD_PETS): Segmentación de imágenes utilizando una red neuronal convolucional (encoder-decoder) desde cero.
    
 ## Contacto
 
