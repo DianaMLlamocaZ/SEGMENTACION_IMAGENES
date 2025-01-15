@@ -28,7 +28,7 @@ A continuación, muestro la gráfica de la métrica *loss* durante el entrenamie
 ---------
 
 # Imagen de prueba:
-Aquí presento una imagen, para la cual utilizaré el modelo para predecir una máscara:
+Aquí presento una imagen, para la cual utilizaré el modelo y, así, predecir la máscara correspondiente:
 
 - Imagen de prueba:
   
