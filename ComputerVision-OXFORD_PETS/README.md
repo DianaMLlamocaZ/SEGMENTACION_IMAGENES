@@ -31,7 +31,9 @@ A continuación, muestro la gráfica de la métrica *loss* durante el entrenamie
 Aquí presento una imagen, para la cual utilizaré el modelo para predecir una máscara:
 
 - Imagen de prueba:
+  
   ![ImagenDePrueba](https://github.com/DianaMLlamocaZ/SEGMENTACION_IMAGENES/blob/main/ComputerVision-OXFORD_PETS/Imagenes-Metrica/Prueba1.JPG)
 
 - Máscara predicha por el modelo:
+  
   ![MáscaraPredicha](https://github.com/DianaMLlamocaZ/SEGMENTACION_IMAGENES/blob/main/ComputerVision-OXFORD_PETS/Imagenes-Metrica/Prueba2.JPG)
