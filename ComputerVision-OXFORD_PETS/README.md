@@ -23,4 +23,4 @@ Este proyecto se basa en la segmentación de imágenes, usando el dataset **The 
 # Métrica - Gráfico de desempeño
 A continuación, muestro la gráfica de la métrica *loss* durante el entrenamiento (training vs validation loss):
 
-![TrainingValidation_Loss]()
+![TrainingValidation_Loss](https://github.com/DianaMLlamocaZ/SEGMENTACION_IMAGENES/blob/main/ComputerVision-OXFORD_PETS/Imagenes-Metrica/Loss.JPG)
